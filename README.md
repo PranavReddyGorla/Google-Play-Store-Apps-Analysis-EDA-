@@ -55,5 +55,5 @@ This project is for practice purposes. Data is sourced from Kaggle and remains t
 ---
 
 ### 🔗 **GitHub Repository Link**   
-🔗 **[Google Play Store EDA Repository](https://github.com/gpreddy172/Google-Play-Store-Apps-Analysis-EDA-)**  
+🔗 **[Google Play Store EDA Repository](https://github.com/PranavReddyGorla/Google-Play-Store-Apps-Analysis-EDA-)**  
 
