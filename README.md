@@ -29,7 +29,7 @@ This project performs **Exploratory Data Analysis (EDA)** on the **Google Play S
 ## Installation & Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/gpreddy172/Google-Play-Store-Apps-Analysis-EDA-.git
+   git clone https://github.com/PranavReddyGorla/Google-Play-Store-Apps-Analysis-EDA-.git
    ```
 2. Navigate to the project folder:  
    ```bash
